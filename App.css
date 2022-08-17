@@ -1,0 +1,116 @@
+.app{
+    background-color:blanchedalmond;
+    padding: 25px;
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+}
+.link{
+    text-decoration:rgb(4, 90, 79);
+}
+ul{
+    display:flex;
+}
+li{
+    list-style: none;
+    padding: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .app{
+        background-color: burlywood; 
+      text-align: center;
+      font:medium;  
+      font-size: 20px;   
+      font-family: cursive;  
+      display: inline-block;
+      flex-direction:column;
+      padding: 30px;
+      }
+      .lol{ */
+        /* list-style-type:none;
+  margin: 0;
+  padding: 0; */
+  /* overflow: hidden; */
+  /* background-color:cadetblue; */
+      /* } */
+      /* li {
+        display: inline;
+      } */
+    /* .line{
+        list-style-type: none;
+      margin: 0;
+      padding: 0;
+    } */
+/* .home{
+    
+    background-color: chartreuse;
+}
+.main{
+    background-color: lightblue;
+}
+.aside{
+    background-color: chocolate;
+}
+.footer{
+    background-color: darkgreen;
+} */
+/* .conditionalrender{
+    background-color: palegreen;
+    text-align: center;
+    color: darkblue;
+    font-style: italic;
+    font-size: large;
+    font-family: cursive;
+   } */
+/* .active{
+    color: darkslategrey;
+}
+ul{
+    display: flex;
+}
+li{
+    list-style: none;
+    text-align: center;
+    margin: 20px;
+}
+li:hover {
+    text-decoration: none;
+}
+.home{
+    background-color: firebrick;
+    padding: 20px;
+}
+.category{
+    background-color: cadetblue;
+    padding: 20px;
+}  */
